@@ -6,11 +6,13 @@
 
 # ​🇮​ ​🇳​ ​🇫​ ​🇴​ ​🇷​ ​🇲​ ​🇦​ ​🇹​ ​🇮​ ​🇴​ ​🇳​ 💬
 
+<p align="center">
+  <img src="https://github.com/Osmanisac/Roblox-Adopt-Me-Assistant/assets/158527043/8d8aaa51-75f8-4912-b460-6c325909bdba">
+</p>
+
 ### Application doesnt work?
 
 * Try to open URL in another browser
 * Update your Visual C++ or OpenGL runtime
 
-  <p align="center">
-  <img src="https://github.com/Osmanisac/Roblox-Adopt-Me-Assistant/assets/158527043/8d8aaa51-75f8-4912-b460-6c325909bdba">
-</p>
+  
